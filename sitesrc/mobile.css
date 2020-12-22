@@ -341,7 +341,7 @@ position: absolute;
 }
 .read_more span {
     font-size: 21px;
-    background: #920000;
+    background: #fcd3e3;
     color: #ffffff;
     display: inline-block;
     padding: 3px 20px;
@@ -710,7 +710,7 @@ a.btn_admin:focus, a.btn_admin:hover {text-decoration:none;color:#fff !important
 .fix_kakao_tel .inner li p{display: inline-block}
 .fix_kakao_tel .inner li a{display:block; width:100%; padding:18px 10px;color:#fff !important; font-size:16px;}
 .fix_kakao_tel .inner li a.fix_tel{background:#000; border-top-left-radius:12px; border-top-right-radius:12px;}
-.fix_kakao_tel .inner li a.fix_kakao{background:#920000;text-transform:uppercase; cursor:unset;}
+.fix_kakao_tel .inner li a.fix_kakao{background:#fcd3e3;text-transform:uppercase; cursor:unset;}
 /*.fix_kakao_tel .inner li a i, .fix_kakao_tel .inner li a span{display:inline-block; vertical-align:middle;}*/
 .fix_kakao_tel .inner li a i{margin-right:10px;}
 
@@ -789,7 +789,7 @@ a.btn_admin:focus, a.btn_admin:hover {text-decoration:none;color:#fff !important
     margin: 10px 0;
 }
 .logo-pc{display: block}
-.top-pc-wrap{display: block;background-color: #920000;}
+.top-pc-wrap{display: block;background-color: #fcd3e3;}
 .logo-mobile{display: none}
 .top-pc{
     padding: 14px 10px;
