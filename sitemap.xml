@@ -1,11 +1,5 @@
 ---
-layout: post
-title: 유미네 경작
-date: 2020-12-22
-lastmod : 2020-12-22 12:00:00
-sitemap : https://yummi30.github.io/
-changefreq : daily
-priority : 1.0
+layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
